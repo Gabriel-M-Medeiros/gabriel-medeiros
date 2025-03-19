@@ -217,6 +217,8 @@
         flex-direction: column-reverse;
     }
     .portfolio{
+        width: 100%;
+        max-width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -260,8 +262,5 @@
         font-size: 18px;
         line-height: 30px;
     }
-    .astonmartin img{
-        width: 100%;
-        height: auto;
-    }
+    /* precisa deixar a imagem com tamanho responsivo no mobile */
 }
