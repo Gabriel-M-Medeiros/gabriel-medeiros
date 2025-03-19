@@ -262,5 +262,18 @@
         font-size: 18px;
         line-height: 30px;
     }
-    /* precisa deixar a imagem com tamanho responsivo no mobile */
+    .right{
+        width: 100%;
+        max-width: 100%;
+    }
+    .astonmartin{
+        width: 100%;
+    }
+    .astonmartin img{
+        width: 100%;
+    }
+    .left{
+        width: 100%;
+        max-width: 100%;
+    }
 }
