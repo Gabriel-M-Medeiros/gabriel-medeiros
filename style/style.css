@@ -169,7 +169,7 @@
 .socials{
     width: 242.96px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .boxright{
     margin: 0px 0px 66px 0px;
@@ -179,6 +179,10 @@
 }
 .lrw{
     height: 48px;
+}
+.ftbox a{
+    text-decoration: none;
+    color: var(--primary)
 }
 @media screen and (max-width: 1023px){
     .header{
